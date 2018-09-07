@@ -4,7 +4,7 @@
 Fix all the errors (syntax, runtime and logic) in this program so it runs properly.
 
 ## Details
-The user is promted to enter a number. Based on the number they enter the program should print something back to the user.
+The user is prompted to enter a number. Based on the number they enter the program should print something back to the user.
 
 1. Pick a random number of times to ask the user if they can hear you. Get the user's response and do nothing with it. After you have asked the random number of times stop asking.
 
@@ -22,13 +22,13 @@ The user is promted to enter a number. Based on the number they enter the progra
 
 1. Flip a coin and print out to the user the result.
 
-1. Divid 9 by 3 and output your work.
+1. Divide 9 by 3 and output your work.
 
 1. Print out what the user entered.
 
 **Invalid numbers**
 
-Let the user know they entered a wrong number. If they enter "-1" make a sly remark about they tring to break your program.
+Let the user know they entered a wrong number. If they enter "-1" make a sly remark about they trying to break your program.
 
 After you have given the user a response based on what number they entered ask if they are done.
 
