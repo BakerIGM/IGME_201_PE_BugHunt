@@ -34,8 +34,12 @@ namespace Bug_Hunt
 
                         for (int i = 0; i <= i; ++i)
                         {
-                            Console.WriteLine("Can you hear me now?");
+                            Console.WriteLine("Can you hear me now? ");
+                            
+                            Console.ReadLine();
                         }
+                
+                        console.WriteLine("Great!");
                         break;
                     //  Ask the user what the speed of light is and tell them if they are correct
                     case 2:
