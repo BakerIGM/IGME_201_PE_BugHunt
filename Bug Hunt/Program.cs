@@ -98,6 +98,8 @@ namespace Bug_Hunt
                     //  Divid the number by 3
                     case 9:
                         int mathValue = userChoice / 1 + 2;
+                
+                        Console.WriteLine("{0} / 3 = {1}", userChoice, mathValue);
                         
                         if(mathValue == 3)
                         {
