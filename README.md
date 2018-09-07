@@ -1,7 +1,7 @@
 # # IGME-201 PE - Bug Hunt
 
 ## Objective
-Fix all the errors (syntax, runtime and logic) in this program so it runs properly.
+Fix all the errors (syntax, runtime and logic) in this program so it runs properly. A handy guide to Clone the project onto your computer can be found on Microsoft Docs [here](https://docs.microsoft.com/en-us/vsts/repos/git/clone?view=vsts&tabs=visual-studio#clone-from-another-git-provider).
 
 ## Details
 The user is prompted to enter a number. Based on the number they enter the program should print something back to the user.
